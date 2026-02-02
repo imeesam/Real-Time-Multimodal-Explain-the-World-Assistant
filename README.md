@@ -38,7 +38,7 @@ This tool is perfect for applications in:
 
 ## ⚡ Demo
 
-![Demo Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Demo+Placeholder)
+![Demo Screenshot](UI.jpeg)
 
 ---
 
